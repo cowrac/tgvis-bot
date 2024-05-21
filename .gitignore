@@ -1,0 +1,4 @@
+visualization_videos/
+venv/
+.idea/
+__pycache__/
