@@ -5,7 +5,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 from moviepy.editor import VideoFileClip
 
-TOKEN = '5804494344:AAEYEObmmddT0JQxgUo9MAW_hWVFyJrNhvo'
+TOKEN = 'TOKEN'
 SAVE_DIR = 'visualization_videos'
 
 bot = Bot(token=TOKEN)
